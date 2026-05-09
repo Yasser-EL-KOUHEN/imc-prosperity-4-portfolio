@@ -1,0 +1,18 @@
+# What is Prosperity?
+
+Prosperity 4 is IMC's global online trading challenge, designed for university students who want to get familiar with algorithmic trading and financial markets. A unique simulation game developed by a team of IMC traders, quantitative researchers, and software engineers to provide an accessible, life-like experience of what it takes to be a trader. 
+
+This year, Prosperity 4 challenges you to explore new frontiers as you and your crew set course for outer space. Along the way, you’ll encounter the most remarkable tradable goods and navigate fascinating foreign markets. It will take skill, knowledge, and courage to overcome the challenges you’ll face and turn risk into reward, earning as many XIRECs (Prosperity currency) as possible. 
+
+The challenge runs for 16 days in total, divided into two active phases of six days each, with a four-day intermission in between. After signing up, you will have time to explore the basic controls and dynamics of the challenge during the tutorial round. This tutorial round will last until April 14, when your first official mission starts.
+
+Prove your worth on your first mission and you’ll be granted access to the second, and final phase of the competition. At the end of the final round, the team that has generated the most profit of all teams will be victorious and be crowned IMC Trading Talent of 2026.
+
+
+# Storyline
+
+Welcome to Prosperity 4! 
+
+You are on your way to Intara, a distant planet that has reached out for help. You and your crew were sent by the **eXtended Interplanetary Resource Exchange Network (XIREN)** to set up a trading outpost and help the Intarian people turn their planet’s raw potential into profitable trading activities. Before you arrive, you can use the trading simulator from within your spacecraft. Trading options might be limited, but it gives you the opportunity to experiment with some initial tradable goods, run your first bits of Python code, and get familiar with the Graphical User interface.
+
+Once you’ve landed on Intara, you’ll have only two trading rounds to prove you’re capable of building a successful trading post and show the Intarian people how to turn their resources into profitable trading strategies. Trade local goods to establish a viable trading framework, and guide Intara toward a prosperous future. **If you manage to secure at least 200,000 XIRECs by the end of trading Round 2 (which shouldn’t be too hard for talent like you), your mission will be considered a success.** Only then will your outpost be certified as a fully operational node in the **eXtended Interplanetary Resource Exchange Network (XIREN)** and will your first mission be followed up by new, and even more exciting one.

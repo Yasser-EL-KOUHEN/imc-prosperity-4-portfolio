@@ -1,0 +1,58 @@
+# Round 5 - **“The Final Stretch”**
+
+It is the final round. You have one last opportunity to prove your worth and rise to the number one spot on the leaderboard. But this final stage will push you to the limits of your ability.
+
+The FTW has introduced 50 new tradable goods to replace the previous ones for algorithmic trading, i.e., you can no longer trade products from previous rounds. The 50 new products are evenly distributed across 10 categories (full list below).
+
+You must identify your winners from this extensive set of products and translate your strategy into one final Python program to generate as much profit as possible.
+
+In addition, you will have the opportunity to trade in the market of the neighboring planet Ignith. Review their primary source of market information, Ashflow Alpha, and determine which of the 9 available tradable goods you want to trade to secure the final increment of profit for your total.
+
+No more time to lose. No more shortcuts. No more excuses. This is it.
+
+# **Round Objective**
+
+Create one final Python program to trade your selected goods from the 10 available categories. Upload it to the network and let your algorithm generate profit on your behalf.
+
+Use the Ashflow Alpha news source to devise a strategy and trade a selection of the 9 available Ignith resources to acquire your final profits.
+
+# **Algorithmic trading challenge: “Cherry Picking Winners”**
+
+You have been given 50 (new) products to trade. Notably, you can no longer trade products from previous rounds. The 50 products are divided into 10 groups of 5, with the full list provided below. Each group has its own story, but some offer more market inefficiencies than others. In certain groups, strong patterns are embedded in the price movements, waiting to be discovered by you! You can capitalize on these opportunities, while developing an effective trading strategy for the other products, just as you have done before.
+
+***Importantly, you can only trade these 50 products, and NOT the ones from previous rounds.***
+
+All products have a position limit of 10 ([see the Position Limits page for extra context and troubleshooting](https://imc-prosperity.notion.site/writing-an-algorithm-in-python#328e8453a09380cfb53edaa112e960a9)).
+
+- **Galaxy Sounds Recorders**: `GALAXY_SOUNDS_DARK_MATTER`, `GALAXY_SOUNDS_BLACK_HOLES`, `GALAXY_SOUNDS_PLANETARY_RINGS`, `GALAXY_SOUNDS_SOLAR_WINDS`, `GALAXY_SOUNDS_SOLAR_FLAMES`
+- **Vertical Sleeping Pods**: `SLEEP_POD_SUEDE`, `SLEEP_POD_LAMB_WOOL`, `SLEEP_POD_POLYESTER`, `SLEEP_POD_NYLON`, `SLEEP_POD_COTTON`
+- **Organic Microchips**: `MICROCHIP_CIRCLE`, `MICROCHIP_OVAL`, `MICROCHIP_SQUARE`, `MICROCHIP_RECTANGLE`, `MICROCHIP_TRIANGLE`
+- **Purification Pebbles**: `PEBBLES_XS`, `PEBBLES_S`, `PEBBLES_M`, `PEBBLES_L`, `PEBBLES_XL`
+- **Domestic Robots**: `ROBOT_VACUUMING`, `ROBOT_MOPPING`, `ROBOT_DISHES`, `ROBOT_LAUNDRY`, `ROBOT_IRONING`
+- **UV-Visors**: `UV_VISOR_YELLOW`, `UV_VISOR_AMBER`, `UV_VISOR_ORANGE`, `UV_VISOR_RED`, `UV_VISOR_MAGENTA`
+- **Instant Translators**: `TRANSLATOR_SPACE_GRAY`, `TRANSLATOR_ASTRO_BLACK`, `TRANSLATOR_ECLIPSE_CHARCOAL`, `TRANSLATOR_GRAPHITE_MIST`, `TRANSLATOR_VOID_BLUE`
+- **Construction Panels**: `PANEL_1X2`, `PANEL_2X2`, `PANEL_1X4`, `PANEL_2X4`, `PANEL_4X4`
+- **Liquid Breath Oxygen Shakes**: `OXYGEN_SHAKE_MORNING_BREATH`, `OXYGEN_SHAKE_EVENING_BREATH`, `OXYGEN_SHAKE_MINT`, `OXYGEN_SHAKE_CHOCOLATE`, `OXYGEN_SHAKE_GARLIC`
+- **Protein Snack Packs**: `SNACKPACK_CHOCOLATE`, `SNACKPACK_VANILLA` `SNACKPACK_PISTACHIO`, `SNACKPACK_STRAWBERRY`, `SNACKPACK_RASPBERRY`
+
+# **Manual trading challenge: “Extra! Extra! Read all about it!”**
+
+You get access to a new source that you can use to build a portfolio that you hold until the next day. Use the news to inform how you structure your portfolio and which instruments you want to buy or sell.
+
+You’ve been invited to trade on the Ignith exchange for one day only. An exclusive event and perfect opportunity to make some big final profits before the trading champion of the galaxy is crowned. You have been granted access to Ignith’s most trusted news source: Ashflow Alpha. You’ll find all the information you need right there. Be aware that trading these foreign goods comes at a price. The more you trade in one good, the more expensive it will get. This is the final stretch. Make it count!
+
+Fee formula is as follows:
+
+***fee = (volume_for_specific_product / 100) * (volume_for_specific_product / 100) ** budget**
+
+Budget is **1,000,000**.
+
+You are allowed to distribute less than the whole 100% of the budget.
+
+You are not allowed to distribute more than 100% of the budget.
+
+Used budget will be subtracted from your trade PnL. Unused budget will not be added to your profit, but will simply expire worthless.
+
+## **Submit your orders**
+
+Choose the goods you would like to trade, input your order details directly in the Manual Challenge Overview window and click the “Submit” button. You can re-submit your orders until the end of the trading round. When the round ends, the last submitted orders will be locked in and processed.

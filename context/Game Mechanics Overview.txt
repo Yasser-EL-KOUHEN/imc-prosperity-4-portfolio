@@ -1,0 +1,91 @@
+# Game Mechanics Overview
+
+# Rounds
+
+The 16 days of simulation of Prosperity are divided into 5 rounds. Rounds 1 and 2 last 72 hours, while rounds 3, 4, and 5 each last 48 hours.
+
+At the end of every round - before the timer runs out - all teams will have to submit their algorithmic and manual trades to be processed. The algorithms will then participate in a full day of trading against the Prosperity trading bots. Note that all algorithms are trading separately, there is no interaction between the algorithms of different players. When a new round starts, the results of the previous round will be disclosed and the leaderboard will be updated accordingly. During the game, you can always visit previous rounds in the dashboard, to review information and results. But once a round is closed, you can no longer change your submitted trader for that round. When Round 5 ends, the final results will be processed and the winner of the Prosperity trading challenge will be announced within 2 weeks.
+
+### Algorithmic trading
+
+Every round contains an algorithmic trading challenge. You will have to submit your (final) Python program before the trading round ends. When the round ends, the last successfully processed submission will be locked in and processed for results. 
+
+![Algo.png](attachment:ceec6f40-46a3-44ae-af01-dcaa12676dd7:Algo.png)
+
+Uploading your program is as simple as dragging it into the XIREN capsule
+
+### Manual trading
+
+Every round also contains a manual trading challenge taking place at the same time. Similar to the algorithmic trading rounds, the last submission will be locked in and processed for results when the round ends. During the tutorial round, manual trading is inactive. Manual trades have no effect on your algorithmic trade and can be seen as separate challenges to gain additional profits. 
+
+# Dashboard
+
+## Algorithmic trading submissions
+
+Submitting your algorithmic trading program (your Python program) is easily done through the Mission Control dashboard, by clicking the “Challenge Details” button under the Algorithmic Challenge. 
+
+![The Algorithm Status Summary](attachment:8dbe2908-eca8-4be6-a0c2-f1ed26ca5af5:5ae220f4-b025-46e8-92f1-1c3ec6ff6faa.png)
+
+The Algorithm Status Summary
+
+An Algorithmic Challenge Overview window will open where you can find all the essential information to build your Python program with, including the Data Capsule containing all the historical trade data for the available tradable goods. 
+
+Clicking the “Upload Algorithm” button will open the Upload and Changelog window where you can drag and drop your file or search for it through a file browser. Here, you can also find all the previously uploaded programs with their respective status and who uploaded them. You can even download the debug logs.
+
+![The Upload & Changelog window](attachment:5c05be46-20fb-49e9-b17a-1a39a0213ef3:Prosperity4_ALGORITHM_UPLOAD_LOG.png)
+
+The Upload & Changelog window
+
+You and your team can upload as many Python programs as you please, but only the one active algorithm will be processed and executed at the end of the round.
+
+# A.R.I.A. Uplinks
+
+A.R.I.A. Uplinks are your main source of information for Prosperity. The Autonomous Relay Interface Assistant, A.R.I.A. for short, will guide you through all the essential information for your Algorithmic and Manual trading activities. A new Uplink will be available at the beginning of every round. 
+
+![A.R.I.A. Uplink videos provide all the essential information per round](attachment:5d5fb09f-1dd5-4b70-a63f-bec92e6a0178:Prosperity4_ARIA_UPLINK.png)
+
+A.R.I.A. Uplink videos provide all the essential information per round
+
+# Outpost View
+
+The outpost View is where you have a clear overview of your outpost and all the structures your team has unlocked by generating XIRECs profit. The more profit you make, the bigger your outpost will grow. 
+
+![The Outpost View provides an overview of your outpost](attachment:f1419d2e-8736-40d7-8652-0969d87531fb:Prosperity4_OUTPOST_VIEW.png)
+
+The Outpost View provides an overview of your outpost
+
+This overview shows your team name, PnL indicator (generated profit and loss) and overall rank on the leaderboard. Below it are direct links to the Leaderboard and the Crew Honors overview. At the bottom of the Outpost View, you’ll find the Mission Control. Clicking it will open the Mission Control window. 
+
+# Leaderboard
+
+The Leaderboard shows the ranking of all competing teams in Prosperity 4. The most important ranking is the Overall ranking, showing total PnL per team and corresponding rankings. Clicking the “Algorithmic” tab will show the ranking based on generated profit for Algorithmic trading performance only. Clicking the “Manual” tab will show the ranking based on generated profit for Manual trading performance only. Clicking the “Country” tab will show your teams ranking compared to other teams with the same team country set.  
+
+![The Leaderboard shows the ranking of all competing teams](attachment:f12ddcfd-ac50-4888-a598-94fa10c3a875:Prosperity4_LEADERBOARD.png)
+
+The Leaderboard shows the ranking of all competing teams
+
+# Crew Honors
+
+While you play Prosperity, you can earn badges for all sorts of actions and achievements. All the badges you collect can be viewed on the Crew Honors page. You can acces your Crew Honors through the Outpost View or the main menu. 
+
+![The Crew Honors page shows all the badges your team collected (and the ones that you can still collect)](attachment:43b817b3-5493-42d3-aa5a-22598e684ee7:Prosperity4_CREW_HONORS.png)
+
+The Crew Honors page shows all the badges your team collected (and the ones that you can still collect)
+
+All your collected badges can be shared with the world easily by clicking on the badge and using one of the share buttons in the description. Let the world now that you’re crushing it in Prosperity!
+
+## On-Board Advisors
+
+You have the opportunity to take a dedicated On-Board Advisor with you on your trading missions. You can choose one out of three available Advisors during the Tutorial Round. You may switch Advisors for as long as the Tutorial Round lasts. As soon as the Tutorial Round ends, your selection will be locked in and you can no longer switch On-Board advisors. 
+
+From the start of round 1 onwards, these On-Board Advisors will provide interesting perspectives on the challenges that you’ll face and provide guidance to help you make your mission a success. Make sure to consult them whenever you’re looking for advise. 
+
+The On-Board Advisor is located in the bottom right corner of your Outpost View. 
+
+![You can select one out of three On-Board Advisors during the Tutorial Round](attachment:df77a509-ab51-4c46-93fb-f0fef69b6e91:Prosperity4_ON-BOARD_ADVISOR_SELECTION.png)
+
+You can select one out of three On-Board Advisors during the Tutorial Round
+
+![Your On-Board Advisor is available at the bottom right of your Outpost View](attachment:3569fa68-50ce-458a-8a3f-79d5ee8162f0:Prosperity4_OUTPOST_VIEW_WITH_OBA.png)
+
+Your On-Board Advisor is available at the bottom right of your Outpost View

@@ -1,0 +1,132 @@
+Manual Challenge
+Vanilla just isn't exotic enough
+Tradable Good
+Aether Crystal
+
+For this trading round only, you have the opportunity to trade the beautiful Aether Crystal, along with a collection of option contracts based on it. Each contract has a contract size of 3,000. Some of these contracts are more “exotic” than others. With the right strategy, they offer the potential for substantial additional profit.
+
+Carefully review the details of all available contracts to understand the full range of possibilities. You may trade as many contracts as you wish, limited only by the available volume per contract. Enter your orders (side and volume) directly in the table and remember to submit them. This is a one-time opportunity and does not affect your algorithmic trading activities. Enter your submission below and click Submit to confirm.
+
+Available option contracts
+Enter your orders directly in the table. Orders are limited by the available volume.
+
+Option	Expiry	Size	Bid	Ask	Size	Buy/sell	Volume	Price
+N/A	200	49.975	50.025	200	
+
+Sell
+Choose
+Volume
+Volume
++ 0.71
+Aether Crystals (AETHER-CRYSTAL) are precision-grown minerals formed under controlled electromagnetic conditions. Each crystal stores and stabilizes ambient energy fluctuations, making them invaluable in advanced communication systems, architectural harmonics, and precision instrumentation.
+
+T + 21	50	12	12.05	50	
+
+Choose
+Choose
+Volume
+Volume
++ 2.71
+AC_50_P is an Aether Crystal PUT Option contract with a Strike Price of 50 XIRECs and a Time To Expiry of 21 Solvenarian Days (starting from Round 1, on Intara).
+
+T + 21	50	12	12.05	50	
+
+Choose
+Choose
+Volume
+Volume
+- 0.45
+AC_50_C is an Aether Crystal CALL Option contract with a Strike Price of 50 XIRECs and a Time To Expiry of 21 Solvenarian Days (starting from Round 1, on Intara).
+
+T + 21	50	4.33	4.35	50	
+
+Choose
+Choose
+Volume
+Volume
++ 0.42
+AC_35_P is an Aether Crystal PUT Option contract with a Strike Price of 35 XIRECs and a Time To Expiry of 21 Solvenarian Days (starting from Round 1, on Intara).
+
+T + 21	50	6.5	6.55	50	
+
+Choose
+Choose
+Volume
+Volume
+0.00
+AC_40_P is an Aether Crystal PUT Option contract with a Strike Price of 40 XIRECs and a Time To Expiry of 21 Solvenarian Days (starting from Round 1, on Intara).
+
+T + 21	50	9.05	9.1	50	
+
+Choose
+Choose
+Volume
+Volume
+- 0.48
+AC_45_P is an Aether Crystal PUT Option contract with a Strike Price of 45 XIRECs and a Time To Expiry of 21 Solvenarian Days (starting from Round 1, on Intara).
+
+T + 21	50	8.8	8.85	50	
+
+Choose
+Choose
+Volume
+Volume
++ 0.42
+AC_60_C is an Aether Crystal CALL Option contract with a Strike Price of 60 XIRECs and a Time To Expiry of 21 Solvenarian Days (starting from Round 1, on Intara).
+
+T + 14	50	9.7	9.75	50	
+
+Choose
+Choose
+Volume
+Volume
++ 0.71
+AC_50_P_2 is an Aether Crystal PUT Option contract with a Strike Price of 50 XIRECs and a Time To Expiry of 14 Solvenarian Days (starting from Round 1, on Intara).
+
+T + 14	50	9.7	9.75	50	
+
+Choose
+Choose
+Volume
+Volume
++ 0.71
+AC_50_C_2 is an Aether Crystal CALL Option contract with a Strike Price of 50 XIRECs and a Time To Expiry of 14 Solvenarian Days (starting from Round 1, on Intara).
+
+T + 14/21	50	22.2	22.3	50	
+
+Choose
+Choose
+Volume
+Volume
++ 0.71
+AC_50_CO is an Aether Crystal CHOOSER Option contract with a Strike Price of 50 XIRECs and a Time To Expiry of 21 Solvenarian Days (starting from Round 1, on Intara). After 14 Solvenarian Days, the buyer chooses the side (PUT or CALL). At that point, the contract automatically converts to the side that is “in the money”. After the remaining 7 Solvenarian Days, the contract expires like a standard PUT or CALL option.
+
+T + 21	50	5	5.1	50	
+
+Choose
+Choose
+Volume
+Volume
++ 0.71
+AC_40_BP is an Aether Crystal BINARY PUT Option contract with a Strike Price of 40 XIRECs and a Time To Expiry of 21 Solvenarian Days (starting from Round 1, on Intara). If the value of the Aether Crystal at expiry is below 40 XIRECs, the contract pays a fixed amount of 10 XIRECs. If the value is at or above 40 XIRECs at expiry, the contract expires worthless.
+
+T + 21	500	0.15	0.175	500	
+
+Choose
+Choose
+Volume
+Volume
++ 0.71
+AC_45_KO is an Aether Crystal KNOCK-OUT PUT Option contract with a Strike Price of 45 XIRECs, a Barrier Price of 35 XIRECs, and a Time To Expiry of 21 Solvenarian Days (starting from Round 1, on Intara). If the value of the Aether Crystal ever falls below 35 XIRECs, the contract is knocked out and expires worthless. If the barrier is never breached, the contract expires with the same payoff as a standard put option with a Strike Price of 45 XIRECs.
+
+Total investment:
+
+0
++
+ 
+0
+Confirm your order. You can re-submit orders until the end of the round.
+
+
+Submit orders
+No submission is provided yet

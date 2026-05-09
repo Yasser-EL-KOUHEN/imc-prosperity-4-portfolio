@@ -1,0 +1,50 @@
+# Round 1 - “Trading groundwork”
+
+You have reached Intara.
+
+You establish a Trade Outpost on the dry and arid landscape, overlooking endless dusty plateaus, jagged rock formations, and ancient impact craters. This outpost will serve as your trading hub for the duration of your mission on Intara.
+
+Your goal is clear: **earn a net profit of 200,000 XIRECs or more** before the beginning of the third trading day. Only then will the Intarians be able to build upon your foundation, and only then will your outpost be acknowledged by the *eXtended Interplanetary Resource Exchange Network* (XIREN) as an official trading node.
+
+The first goods available for trade are ***Ash-Coated Osmium*** (`ASH_COATED_OSMIUM`) and ***Intarian Pepper Root*** (`INTARIAN_PEPPER_ROOT`). Devising a strategy to turn these products into profit should be your primary focus.
+
+However, the Intarian people are also organizing a celebratory **Exchange Auction** to welcome you to their planet. This auction provides an opportunity to generate additional profit alongside your algorithmic earnings and to kickstart your mission in strong form.
+
+Trading days on Intara last 72 hours, giving you ample time to develop a solid strategy for both algorithmic and manual trading challenges.
+
+## **Round Objective**
+
+Translate your first trading strategy into a Python program that trades `ASH_COATED_OSMIUM` and `INTARIAN_PEPPER_ROOT` on your behalf. In addition to deploying your first official trading algorithm, participate in the Exchange Auction to generate additional profit.
+
+## Algorithmic trading challenge: “First Intarian Goods”
+
+Similar to the `EMERALDS` products in the Tutorial round, the value of `INTARIAN_PEPPER_ROOT` is quite steady, but keep in mind that it’s a hardy, slow-growing root. On the other hand, `ASH_COATED_OSMIUM` is rumored to be a bit more volatile, although one may speculate that its apparent unpredictability may follow a hidden pattern. The product limits ([see the Position Limits page for extra context and troubleshooting](https://imc-prosperity.notion.site/writing-an-algorithm-in-python#328e8453a09380cfb53edaa112e960a9)) are:
+
+- `ASH_COATED_OSMIUM`: 80
+- `INTARIAN_PEPPER_ROOT`: 80
+
+## Manual trading challenge: “An Intarian Welcome”
+
+The Intarian people are kicking off your visit to Intara with two opening auctions for ***Dryland Flax*** (`DRYLAND_FLAX`) and ***Ember Mushrooms*** (`EMBER_MUSHROOM`).
+
+You will submit your orders last. No other bids/asks will arrive and no volumes will change after you place your order.
+
+### **Auction rules**
+
+You have to submit a single limit order (price, quantity). When the auction ends, the exchange selects a single clearing price that:
+
+1. maximizes total traded volume, then
+2. breaks ties by choosing the higher price.
+
+All bids with price ≥ clearing price and asks with price ≤ clearing price execute at the clearing price. Allocation is price priority, then time priority. Since you are last to submit, you are last in line at any price level you join.
+
+### Guaranteed buyback after the auction
+
+You will not trade these products in continuous trading. Instead, right after the auction the Merchant Guild will buy any inventory you trade at a fixed price:
+
+- `DRYLAND_FLAX`: 30 per unit (no fees)
+- `EMBER_MUSHROOM`: 20 per unit (fee: 0.10 per unit traded)
+
+### Submit your orders
+
+Choose a bid price and quantity for each product to maximize your profit. Enter your orders directly in the Manual Challenge Overview window and click the “Submit” button. You can re-submit new orders until the end of the trading round. When the round ends, the last submitted orders will be executed.

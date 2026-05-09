@@ -1,0 +1,26 @@
+# Tutorial Round - “Simulator Practice”
+
+Welcome to Prosperity 4!
+
+Your trading adventure has officially begun. You have received the briefing for your very first trade mission into outer space. You are en route to Intara, a distant planet that has reached out for help; a remote, resource-rich world located just beyond the reach of the eXtended Interplanetary Resource Exchange Network (XIREN)’s established trade corridors.
+
+Known for its arid climate, rust-hued terrain, and untapped economic potential, Intara offers interesting resources. However, the Intarian people need your expertise to establish a trading system capable of turning their planet’s potential into a prosperous society.
+
+During your journey to Intara, you can access the trading simulator from within your spacecraft. While the trading options in this simulator are limited, it gives you the opportunity to experiment with ***Emeralds*** (`EMERALDS`) and ***Tomatoes*** (`TOMATOES`) as tradable goods, run your first lines of Python code, and become familiar with the Graphical User Interface (GUI).
+
+You can test your Python program as many times as you like and receive (almost) instant feedback on its performance. Make the most of your time in the simulator, because once you land on Intara, the time to practice is over and your real mission begins.
+
+## **Round Objective**
+
+Your objective in this tutorial round is to write your first Python program to trade ***Emeralds*** and ***Tomatoes***, upload it to the trading simulator to test its performance, and become familiar with the Graphical User Interface and core controls of Prosperity 4.
+
+### **Algorithmic trading challenge: “Simulator Practice”**
+
+The ***Emeralds*** are precious gemstones with quite a stable value, while the value of ***Tomatoes*** tends to fluctuate over time. They both have position limits, i.e., a maximum number of both you can hold at any point in time. The product limits ([see the Position Limits page for extra context and troubleshooting](https://imc-prosperity.notion.site/writing-an-algorithm-in-python#328e8453a09380cfb53edaa112e960a9)) are:
+
+- `EMERALDS`: 80
+- `TOMATOES`: 80
+
+### **Manual:**
+
+N/A
