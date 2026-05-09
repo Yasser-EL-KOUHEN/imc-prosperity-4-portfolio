@@ -1,4 +1,4 @@
-# IMC Prosperity 4 — A Solo Entry's Lessons 🦊
+# IMC Prosperity 4 — A Solo Entry's Lessons 
 
 This write-up shares the algorithm, the manual derivations, and the lessons that brought a solo entry to **#346 globally out of 18,803 teams (top 1.84%)** in IMC Prosperity 4 (2026). Country rank **#11 in France**. Final cumulative score (R3 + R4 + R5): **383,727 XIREC**. Every product, every round, every failure trail is documented here.
 
