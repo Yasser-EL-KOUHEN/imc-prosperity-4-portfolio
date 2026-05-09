@@ -1,0 +1,34 @@
+Manual Trading Results
+Formula
+Research(x) * Scale(y) * Hit_rate(rank(z)) - Budget = PnL
+Research
+18%
+Invested
+Strategy XIRECs
+127,600
+Logarithmic
+Scale
+60%
+Invested
+Multiplier
+X 4.2
+Linear
+Speed
+22%
+Invested
+Hit Rate
+0.38
+With Rank #2801
+Total
+
+203,345
+
+Budget
+
+-50,000
+
+Manual Trading PnL
+
+P&L
+
+153,345

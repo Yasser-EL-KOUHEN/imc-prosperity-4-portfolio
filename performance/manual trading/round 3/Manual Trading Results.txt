@@ -1,0 +1,50 @@
+Manual Trading Results
+Your bid price
+
+Accepted
+
+Rejected
+
+Buy price
+
+Sell price
+
+P&L
+
+760
+
+335
+
+665
+
+254,600
+
+308,200
+
+53,600
+
+855
+
+404
+
+596
+
+345,420
+
+371,680
+
+21,637.51
+
+Buy price
+
+Sell price
+
+P&L
+
+Manual Trading PnL
+
+600,020
+
+679,880
+
+75,237.51

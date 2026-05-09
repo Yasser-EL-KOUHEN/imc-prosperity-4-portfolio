@@ -1,0 +1,53 @@
+Manual Trading Results
+Tradable Good
+Buy/sell
+Percentage
+Investment
+Fee
+P&L
+
+Pyroflex cells
+
+SELL	12%	120,000	14,400	+9,041
+
+Magma ink
+
+BUY	12%	120,000	14,400	-11,727
+
+Volcanic incense
+
+BUY	0%	0	0	+0
+
+Lava cake
+
+SELL	25%	250,000	62,500	+95,884
+
+Obsidian cutlery
+
+BUY	0%	0	0	+0
+
+Ashes of the Phoenix
+
+SELL	14%	140,000	19,600	-14,694
+
+Thermalite core
+
+BUY	16%	160,000	25,600	+9,856
+
+Scoria paste
+
+BUY	0%	0	0	+0
+
+Sulfur reactor
+
+BUY	6%	60,000	3,600	+6,854
+Manual Trading PnL
+
+Spent
+85%
+Investment
+850,000
+Fee
+140,100
+P&L
++95,214
